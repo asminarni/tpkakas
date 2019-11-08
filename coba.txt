@@ -1,4 +1,8 @@
 apakah kamu sedang baik saja?? by asmi
 
+<<<<<<< HEAD
 
 alhamdulillah
+=======
+yah saya baik-baik saja. by eka
+>>>>>>> 74e3be5621867f4927798958966662d8f9278b5e
